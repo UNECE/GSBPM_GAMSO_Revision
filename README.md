@@ -1,13 +1,13 @@
-# GSBPM and GAMSO Revision
+# Background to the revision of GSBPM and GAMSO
 
-The [Generic Statistical Business Process Model (GSBPM)](https://statswiki.unece.org/display/GSBPM) and [the Generic Activity Model for Statistical Organisation (GAMSO)](https://statswiki.unece.org/display/GAMSO) are used by many statistical organisations for the standard-based modernisation. Every five years, these models are revised to ensure that they maintain their relevance.
+The [Generic Statistical Business Process Model (GSBPM)](https://statswiki.unece.org/display/GSBPM) and [the Generic Activity Model for Statistical Organisation (GAMSO)](https://statswiki.unece.org/display/GAMSO) are used by many statistical organisations for the standard-based modernisation. These models are periodically revised to ensure that they maintain their relevance.
 
-This revision is initiated by the 2023 Work Programme of [the High-Level Group for Modernisation of Official Statistics (HLG-MOS)](https://statswiki.unece.org/display/hlgbas) and will be carried out by a task team under the HLG-MOS Supporting Standards Group. If you wish to join this revision task team, please contact choii-at-un-dot-org. 
+This revision is conducted by a dedicated task team under the Supporting Standards Group of [the High-Level Group for Modernisation of Official Statistics (HLG-MOS)](https://statswiki.unece.org/display/hlgbas).
 
-**Timeline (as of August 2023)**
+# GSBPM version 5.2 for Consultation
 
-| Activity  | Date  |
-| ------------- | ------------- |
-| Revision team kick-off meeting | Jan 30, 2023  |
-| Call for revision feedback | Jan 17 - Feb 20, 2023  |
-| Review of revision feedback | March 2023 ~ |
+
+# Revision of GAMSO
+This represents the next phase of work: If you wish to join the task team, please contact jonesc-at-un-dot-org. 
+
+
