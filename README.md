@@ -5,7 +5,8 @@ The [Generic Statistical Business Process Model (GSBPM)](https://statswiki.unece
 This revision is conducted by a dedicated task team under the Supporting Standards Group of [the High-Level Group for Modernisation of Official Statistics (HLG-MOS)](https://statswiki.unece.org/display/hlgbas).
 
 # GSBPM version 5.2 for Consultation
-
+Based on the processing of suggestions received in the initial (2023) round of consultation, the task team has prepared a draft of GSBPM v5.2 for a further round of consultation (until 7 March 2025).
+[Description of Changes (GSBPM v5.2).docx](https://github.com/user-attachments/files/18797946/Description.of.Changes.GSBPM.v5.2.docx)
 
 # Revision of GAMSO
 This represents the next phase of work: If you wish to join the task team, please contact jonesc-at-un-dot-org. 
