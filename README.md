@@ -9,7 +9,7 @@ Based on the processing of suggestions received in the initial (2023) round of c
 [Detail of Changes (GSBPM v5.2).docx](https://github.com/user-attachments/files/18798335/Detail.of.Changes.GSBPM.v5.2.docx)
 
 _The following persons have participated in the work: 
-Helda Mitre (Instat, Albania), Cory Chobanik, Flavio Rizzolo (Statistics Canada), Antti Santaharju (Statistics Finland), Élodie Kranklader, Florian Vucko, Jlassi Mahmoud (INSEE, France), Zoltán Vereczkei, Andrea Petres (Statistics Hungary), Kevin McCormack (CSO, Ireland), Claudia Brunini, Giorgia Simeoni, Mauro Scanu, Nadia Mignolli (Istat, Italy), José Luján, Juan Muñoz, Jimena Juarez (INEGI, Mexico), Andrew Phelps, Joni Karanka (ONS, United Kingdom), Federico Segui, Michelle Moss (Statistics Uruguay), Antonio Discenza, Edgardo Greising (International Labour Organization), Gabriel Gamez (United Nations Statistics Division), Carlo Vaccari (independent expert)_
+**Helda Mitre (Instat, Albania), Cory Chobanik, Flavio Rizzolo (Statistics Canada), Antti Santaharju (Statistics Finland), Élodie Kranklader, Florian Vucko, Jlassi Mahmoud (INSEE, France), Zoltán Vereczkei, Andrea Petres (Statistics Hungary), Kevin McCormack (CSO, Ireland), Claudia Brunini, Giorgia Simeoni, Mauro Scanu, Nadia Mignolli (Istat, Italy), José Luján, Juan Muñoz, Jimena Juarez (INEGI, Mexico), Andrew Phelps, Joni Karanka (ONS, United Kingdom), Federico Segui, Michelle Moss (Statistics Uruguay), Antonio Discenza, Edgardo Greising (International Labour Organization), Gabriel Gamez (United Nations Statistics Division), Carlo Vaccari (independent expert)**_
 
 
 # Revision of GAMSO
