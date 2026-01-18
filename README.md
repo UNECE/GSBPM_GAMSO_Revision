@@ -6,7 +6,7 @@ This revision is conducted by a dedicated task team under the Supporting Standar
 
 # New GAMSO version 2.0 for Consultation
 Based on the processing of suggestions received in the initial round of consultation, the task team has prepared a draft of GAMSO v2.0 for a further round of consultation (until DATE).
-
+Detailed response to consultation comments can be [found here] (https://github.com/UNECE/GSBPM_GAMSO_Revision/issues/47) .
 
 # Previous update of the related GSBPM (version 5.2)
 The new version of the GSBPM v5.2 was endorsed by the Conference of European Statisticians in June 2025.
