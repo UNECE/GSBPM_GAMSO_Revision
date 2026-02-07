@@ -5,7 +5,7 @@ The [Generic Statistical Business Process Model (GSBPM)](https://unece.github.io
 This revision is conducted by a dedicated task team under the Supporting Standards Group of [the High-Level Group for Modernisation of Official Statistics (HLG-MOS)](https://statswiki.unece.org/display/hlgbas).
 
 # New GAMSO version 2.0 **for Consultation**
-Based on the processing of suggestions received in the initial round of consultation, the task team has prepared a draft of GAMSO v2.0 for a further round of consultation (until DATE).
+Based on the processing of suggestions received in the initial round of consultation, the task team has prepared a draft of GAMSO v2.0 for a further round of CES consultation.
 Detailed response to consultation comments can be [found here](https://github.com/UNECE/GSBPM_GAMSO_Revision/issues/47) .
 
 _The following persons are gratefully recognized for participating in the GAMSO revision task team: 
